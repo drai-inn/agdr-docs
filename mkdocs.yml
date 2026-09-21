@@ -7,7 +7,7 @@ site_dir: public
 site_url: https://docs.agdr.org.nz/
 theme:
   custom_dir: overrides
-  favicon: assets/icons/favicon.ico
+  favicon: assets/icons/favicon.io.png
   language: en
   logo: assets/icons/ga_logo_alpha.svg
   name: material
