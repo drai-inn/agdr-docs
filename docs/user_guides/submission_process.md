@@ -13,7 +13,7 @@ More information about the design and operating principles of the Aotearoa Genom
 
 ![Alt text](../assets/images/submit1.jpeg)
 
-1. Fill out the **application form - <ins>[Application form for submitting data](https://apply.agdr.org.nz/application?items=1)</ins>** (If this isn't suitable for your dataset, please reach out to **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>** and we will be happy to discuss it with you).  
+1. Fill out the **application form - <ins>[Application form for submitting data](https://apply.agdr.org.nz/application?items=233)</ins>** (If this isn't suitable for your dataset, please reach out to **<ins>[gasupport@nesi.org.nz](mailto:gasupport@nesi.org.nz)</ins>** and we will be happy to discuss it with you).  
 Note: you can access the submission form from the **<ins>[AGDR website](https://data.agdr.org.nz/)</ins>**, click on the **<ins>[Submit Data](https://apply.agdr.org.nz/application?items=1)</ins>** button
 2. After review of your application form we will provide you with a metadata template spreadsheet to complete and instructions to transfer your data via Globus. You will have access to the Globus guest collection for 6 months while you submit your data, after this point your access will be revoked.
 3. Please return the completed spreadsheet so we can proceed with your submission.
